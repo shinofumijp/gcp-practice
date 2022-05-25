@@ -18,7 +18,7 @@ google-auth = "==1.6.3"
 google-cloud-iot = "==0.3.0"
 google-cloud-pubsub = "==1.0.0"
 oauth2client = "*"
-PyJWT = "==1.7.1"
+PyJWT = "==2.4.0"
 
 [requires]
 python_version = "3.7"
